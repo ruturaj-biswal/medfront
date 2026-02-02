@@ -4,7 +4,6 @@ import {
   FaVideo,
   FaUserMd,
   FaFileMedical,
-  FaMobileAlt,
   FaAmbulance,
   FaHeartbeat,
   FaHospitalUser,

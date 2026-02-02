@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function InsuranceAssistance() {
-  const [policyFile, setPolicyFile] = useState(null);
+  const [, setPolicyFile] = useState(null);
 
   const handleUpload = (e) => {
     setPolicyFile(e.target.files[0]);
